@@ -1,4 +1,13 @@
-/* Class selection to specify style */
+/* Element (element_name) selection to specify style */
+
+img {
+    object-fit: cover;
+    width: 400px;
+    height: 400px;
+    border-radius: 15%;
+}
+
+/* Class (.class-name) selection to specify style */
 
 .text {
     padding-left: 1.5%;
